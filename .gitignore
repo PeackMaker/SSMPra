@@ -1,0 +1,32 @@
+/SSMPra01/
+# Compiled class file
+*.class
+
+# Log file
+*.log
+
+# BlueJ files
+*.ctxt
+
+# Mobile Tools for Java (J2ME)
+.mtj.tmp/# Package Files #
+*.jar
+*.war
+*.nar
+*.ear
+*.zip
+*.tar.gz
+*.rar
+
+hs_err_pid*
+
+.classpath
+.project
+.settings
+target
+.idea
+*.iml
+/SpringMvcDemo01/
+/SsmMuti/src/main/resources/application.properties
+/pom.xml
+/src/main/resources/application.properties
